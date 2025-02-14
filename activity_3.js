@@ -18,7 +18,7 @@ console.log("Quotient: " + quotient);
 
 // Task 2: Age Validator
 
-// Step 1: Prompt the user to enter their age
+// Step 1:  the user to enter their age
 let age = "Enter your age:";
 
 // Step 2: Check if the user is 18 or older
